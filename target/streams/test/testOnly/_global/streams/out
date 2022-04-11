@@ -1,0 +1,13 @@
+[debug] Running TaskDef(CalculadoraTest, org.scalatest.tools.Framework$$anon$1@1b63ab93, false, [SuiteSelector])
+[info] CalculadoraTest:
+[info] - Test Soma
+[info] - Test Subtração
+[info] - Test Multiplicação
+[info] - Test Divisão
+[info] Run completed in 282 milliseconds.
+[info] Total number of tests run: 4
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	CalculadoraTest

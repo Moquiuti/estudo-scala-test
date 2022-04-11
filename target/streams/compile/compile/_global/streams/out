@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0mC:\teste-sbt\test-sbt\src\main\scala\basic\CallByNameAndValue.scala:8:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef printTimeMilis(t: Long): Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\teste-sbt\test-sbt\src\main\scala\basic\CallByNameAndValue.scala:15:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mprintTimeMilis(Calendar.getInstance().getTimeInMillis)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\teste-sbt\test-sbt\src\main\scala\basic\CallByNameAndValue.scala:23:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef printTimeMilisCallByName(t: => Long): Unit = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\teste-sbt\test-sbt\src\main\scala\basic\CallByNameAndValue.scala:30:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mprintTimeMilisCallByName(Calendar.getInstance().getTimeInMillis)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
